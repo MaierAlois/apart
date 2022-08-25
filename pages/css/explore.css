@@ -1,0 +1,40 @@
+#main_page
+{
+    background-color: #2EC4B6;
+}
+
+header
+{
+    background-color: #2EC4B6;
+}
+
+.button
+{
+    color: #2EC4B6;
+}
+
+#complement_title:hover::before
+{
+    background-color: #CBF3F0;
+}
+
+.primary_button
+{
+    color: #2EC4B6;
+}
+.primary_button:hover
+{
+    background-color: #CBF3F0;
+    color: #2EC4B6;
+}
+.secondary_button:hover
+{
+    border-color: #CBF3F0;
+    color: #CBF3F0;
+}
+
+#anotherPage
+{
+    width: 100%;
+    height: 100vh;
+}

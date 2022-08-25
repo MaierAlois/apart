@@ -1,0 +1,44 @@
+#main_page
+{
+    background-color: #2E6AC4;
+    animation-name: animDepartBody;
+    animation-duration: 1000ms;
+}
+
+header
+{
+    background-color: #2E6AC4;
+    animation-name: animDepartBody;
+    animation-duration: 1000ms;
+}
+
+.button
+{
+    color: #2E6AC4;
+}
+
+.button:hover::before
+{
+    background-color: #C7D7EF;
+}
+
+.primary_button
+{
+    color: #2E6AC4;
+}
+.primary_button:hover
+{
+    background-color: #C7D7EF;
+    color: #2E6AC4;
+}
+.secondary_button:hover
+{
+    border-color: #C7D7EF;
+    color: #C7D7EF;
+}
+
+#anotherPage
+{
+    width: 100%;
+    height: 100vh;
+}
